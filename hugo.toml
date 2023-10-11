@@ -1,0 +1,35 @@
+baseURL = 'https://blog.milfctf.com'
+languageCode = 'en-us'
+title = "Blog | MILF CTF Team"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "tango"
+    tabWidth = 2
+
+[author]
+  name = "MILF"
+  homepage = "https://milfctf.com/"
+
+[params]
+mainSections = ["writeups"]
+headTitle = "Mother I'd Like to Flag"
+description = "📝 All of our writeups & articles"
+favicon = "/logo.png"
+[[params.socials]]
+name = "✏️ CTF Writeups"
+link = "/writeups"
+[[params.socials]]
+name = "- 📰 Articles"
+link = "/articles"
+[[params.socials]]
+name = "-❓About Us"
+link = "https://milfctf.com/"
+lazyImage = true
