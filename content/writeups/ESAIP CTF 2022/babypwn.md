@@ -1,6 +1,6 @@
 ---
 title: "[ESAIP CTF] - Baby Pwn (450)"
-date: 2022-01-02
+date: 2022-06-04
 categories: ['pwn']
 draft: false
 ---

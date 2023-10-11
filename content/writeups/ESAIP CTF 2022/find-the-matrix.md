@@ -1,6 +1,6 @@
 ---
 title: "[ESAIP CTF] - Find the Matrix (500)"
-date: 2022-01-02
+date: 2022-06-04
 categories: ['crypto']
 draft: false
 ---

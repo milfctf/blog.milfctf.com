@@ -1,6 +1,6 @@
 ---
 title: "[HeroCTF v4] - My Passwords (492)"
-date: 2023-01-02
+date: 2023-05-12
 categories: ['forensics']
 draft: false
 ---

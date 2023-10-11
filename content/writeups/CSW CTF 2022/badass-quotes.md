@@ -1,6 +1,6 @@
 ---
 title: "[CSW CTF] - Badass Quotes (500)"
-date: 2022-01-02
+date: 2022-05-23
 categories: ['pwn']
 draft: false
 ---
