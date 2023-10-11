@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blog | MILF CTF Team</title>
+    <link>https://blog.milfctf.com/categories/</link>
+    <description>Recent content in Categories on Blog | MILF CTF Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>forensics</title>
+      <link>https://blog.milfctf.com/categories/forensics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/categories/forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://blog.milfctf.com/categories/crypto/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/categories/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osint</title>
+      <link>https://blog.milfctf.com/categories/osint/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/categories/osint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pwn</title>
+      <link>https://blog.milfctf.com/categories/pwn/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/categories/pwn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

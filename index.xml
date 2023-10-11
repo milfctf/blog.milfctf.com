@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | MILF CTF Team</title>
+    <link>https://blog.milfctf.com/</link>
+    <description>Recent content on Blog | MILF CTF Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[HeroCTF v4] - My Passwords (492)</title>
+      <link>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</guid>
+      <description>Author : baddhack Challenge Informations Description We have exfiltrated data from a malicious person&amp;#39;s computer and we need his pastebin password. Unfortunately, the file system dump was damaged, so the only thing we were able to recover is provided to you. Can you recover his password ? Flag format : Hero{pastebin_mdp}
+Challmaker Worty
+WriteUp In this challenge we are provided with a .zip file which contains a Firefox directory. When you unzip the file and look into this directory here is what you see :</description>
+    </item>
+    
+    <item>
+      <title>[CSW CTF] - Badass Quotes (500)</title>
+      <link>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</guid>
+      <description>Author : Rxphgui Aujourd&amp;rsquo;hui on va voir un challenge du CSW CTF. Un challenge de pwn dont j&amp;rsquo;ai eu le second solve (à 1 sec du first blood 0_0).
+Review du Code Nous avions simplement le code source en C suivant :
+#include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; int main() { char term[64]; char quote[32]; setbuf(stdout, NULL); setbuf(stdin, NULL); setbuf(stderr, NULL); memset(term, 0, 64); memset(quote, 0, 32); printf(&amp;#34;\nI CaN HaS BaDaSs QuOtE?</description>
+    </item>
+    
+    <item>
+      <title>[ESAIP CTF] - Baby Pwn (450)</title>
+      <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</guid>
+      <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le premier challenge d&amp;rsquo;exploitation de binaire de l&amp;rsquo;ESAIP CTF. Il s&amp;rsquo;agissait d&amp;rsquo;un challenge d&amp;rsquo;introduction. Pourtant il avait moins de 10 solves. Nous n&amp;rsquo;avions simplement le binaire ainsi qu&amp;rsquo;un accès remote.
+Introduction Pour commencer nous allons analyser le binaire de manière assez simple :
+[raphgui@ret2arch:Téléchargements/pwn]$ file babypwn (06-05 16:41) babypwn: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=950806fb3e5df438288e966762b67e0c218467a5, for GNU/Linux 3.</description>
+    </item>
+    
+    <item>
+      <title>[ESAIP CTF] - Find the Matrix (500)</title>
+      <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</guid>
+      <description>Author : voiv0de The ESAIP CTF was overall a pretty cool event. Usually I take care of the Reverse Engineering challenges but on this one I returned to my first love : Cryptanalysis.
+During the CTF, I managed to obtain two first bloods in this category 🩸.
+Today, I present to you : Find the Matrix.
+The flag was encrypted by this algorithm, find a way to reverse it to get the flag!</description>
+    </item>
+    
+    <item>
+      <title>[ESAIP CTF] - Terminal Weather (479)</title>
+      <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</guid>
+      <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le dernier challenge en pwn de l&amp;rsquo;ESAIP CTF. Nous n&amp;rsquo;avions pas de binaire simplement un remote.
+Lorsque nous nous connections nous avions cela :
+[raphgui@ret2arch:Téléchargements/pwn][1]$ nc terminal-weather.esaip-cyber.com 55555 (06-05 17:00) Welcome to the Terminal Weather Service ----- MENU ----- 1. Change city 2. Get weather 3. Exit Choice: Introduction Ce challenge est celui qui m&amp;rsquo;a prit le plus de temps (2 heures). Pourtant le principe est simple, on va y venir.</description>
+    </item>
+    
+    <item>
+      <title>[ESAIP CTF] - The Proof of the Malware (500)</title>
+      <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</guid>
+      <description>Author : hashp4 Here is the writeup of The Proof of the Malware, a cool OSINT challenge categorized as medium during the ESAIP CTF.
+After some time without anybody solving the challenge I managed to first blood it🩸.
+Instructions : We have discovered that a person currently working at Metacortexxs is developing a powerful virus. Find the proof of the development of this virus by this employee Information Gathering - Finding the target According to the instructions, we are searching for someone who is working at Metacortexxs.</description>
+    </item>
+    
+  </channel>
+</rss>

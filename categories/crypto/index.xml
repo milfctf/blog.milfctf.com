@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Blog | MILF CTF Team</title>
+    <link>https://blog.milfctf.com/categories/crypto/</link>
+    <description>Recent content in crypto on Blog | MILF CTF Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ESAIP CTF] - Find the Matrix (500)</title>
+      <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</guid>
+      <description>Author : voiv0de The ESAIP CTF was overall a pretty cool event. Usually I take care of the Reverse Engineering challenges but on this one I returned to my first love : Cryptanalysis.
+During the CTF, I managed to obtain two first bloods in this category 🩸.
+Today, I present to you : Find the Matrix.
+The flag was encrypted by this algorithm, find a way to reverse it to get the flag!</description>
+    </item>
+    
+  </channel>
+</rss>

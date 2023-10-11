@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forensics on Blog | MILF CTF Team</title>
+    <link>https://blog.milfctf.com/categories/forensics/</link>
+    <description>Recent content in forensics on Blog | MILF CTF Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[HeroCTF v4] - My Passwords (492)</title>
+      <link>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</guid>
+      <description>Author : baddhack Challenge Informations Description We have exfiltrated data from a malicious person&amp;#39;s computer and we need his pastebin password. Unfortunately, the file system dump was damaged, so the only thing we were able to recover is provided to you. Can you recover his password ? Flag format : Hero{pastebin_mdp}
+Challmaker Worty
+WriteUp In this challenge we are provided with a .zip file which contains a Firefox directory. When you unzip the file and look into this directory here is what you see :</description>
+    </item>
+    
+  </channel>
+</rss>
