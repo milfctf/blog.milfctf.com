@@ -6,11 +6,11 @@
     <description>Recent content in CTF Writeups on Blog | MILF CTF Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[HeroCTF v4] - My Passwords (492)</title>
       <link>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/heroctf-v4/my-passwords/</guid>
       <description>Author : baddhack Challenge Informations Description We have exfiltrated data from a malicious person&amp;#39;s computer and we need his pastebin password. Unfortunately, the file system dump was damaged, so the only thing we were able to recover is provided to you. Can you recover his password ? Flag format : Hero{pastebin_mdp}
@@ -19,20 +19,9 @@ WriteUp In this challenge we are provided with a .zip file which contains a Fire
     </item>
     
     <item>
-      <title>[CSW CTF] - Badass Quotes (500)</title>
-      <link>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</guid>
-      <description>Author : Rxphgui Aujourd&amp;rsquo;hui on va voir un challenge du CSW CTF. Un challenge de pwn dont j&amp;rsquo;ai eu le second solve (à 1 sec du first blood 0_0).
-Review du Code Nous avions simplement le code source en C suivant :
-#include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; int main() { char term[64]; char quote[32]; setbuf(stdout, NULL); setbuf(stdin, NULL); setbuf(stderr, NULL); memset(term, 0, 64); memset(quote, 0, 32); printf(&amp;#34;\nI CaN HaS BaDaSs QuOtE?</description>
-    </item>
-    
-    <item>
       <title>[ESAIP CTF] - Baby Pwn (450)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</guid>
       <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le premier challenge d&amp;rsquo;exploitation de binaire de l&amp;rsquo;ESAIP CTF. Il s&amp;rsquo;agissait d&amp;rsquo;un challenge d&amp;rsquo;introduction. Pourtant il avait moins de 10 solves. Nous n&amp;rsquo;avions simplement le binaire ainsi qu&amp;rsquo;un accès remote.
@@ -43,7 +32,7 @@ Introduction Pour commencer nous allons analyser le binaire de manière assez si
     <item>
       <title>[ESAIP CTF] - Find the Matrix (500)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/find-the-matrix/</guid>
       <description>Author : voiv0de The ESAIP CTF was overall a pretty cool event. Usually I take care of the Reverse Engineering challenges but on this one I returned to my first love : Cryptanalysis.
@@ -55,7 +44,7 @@ The flag was encrypted by this algorithm, find a way to reverse it to get the fl
     <item>
       <title>[ESAIP CTF] - Terminal Weather (479)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</guid>
       <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le dernier challenge en pwn de l&amp;rsquo;ESAIP CTF. Nous n&amp;rsquo;avions pas de binaire simplement un remote.
@@ -66,12 +55,23 @@ Lorsque nous nous connections nous avions cela :
     <item>
       <title>[ESAIP CTF] - The Proof of the Malware (500)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</guid>
       <description>Author : hashp4 Here is the writeup of The Proof of the Malware, a cool OSINT challenge categorized as medium during the ESAIP CTF.
 After some time without anybody solving the challenge I managed to first blood it🩸.
 Instructions : We have discovered that a person currently working at Metacortexxs is developing a powerful virus. Find the proof of the development of this virus by this employee Information Gathering - Finding the target According to the instructions, we are searching for someone who is working at Metacortexxs.</description>
+    </item>
+    
+    <item>
+      <title>[CSW CTF] - Badass Quotes (500)</title>
+      <link>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</guid>
+      <description>Author : Rxphgui Aujourd&amp;rsquo;hui on va voir un challenge du CSW CTF. Un challenge de pwn dont j&amp;rsquo;ai eu le second solve (à 1 sec du first blood 0_0).
+Review du Code Nous avions simplement le code source en C suivant :
+#include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; int main() { char term[64]; char quote[32]; setbuf(stdout, NULL); setbuf(stdin, NULL); setbuf(stderr, NULL); memset(term, 0, 64); memset(quote, 0, 32); printf(&amp;#34;\nI CaN HaS BaDaSs QuOtE?</description>
     </item>
     
   </channel>

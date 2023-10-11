@@ -6,11 +6,11 @@
     <description>Recent content in osint on Blog | MILF CTF Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/osint/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/osint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[ESAIP CTF] - The Proof of the Malware (500)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/the-proof-of-the-malware/</guid>
       <description>Author : hashp4 Here is the writeup of The Proof of the Malware, a cool OSINT challenge categorized as medium during the ESAIP CTF.

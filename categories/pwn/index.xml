@@ -6,22 +6,11 @@
     <description>Recent content in pwn on Blog | MILF CTF Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[CSW CTF] - Badass Quotes (500)</title>
-      <link>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</guid>
-      <description>Author : Rxphgui Aujourd&amp;rsquo;hui on va voir un challenge du CSW CTF. Un challenge de pwn dont j&amp;rsquo;ai eu le second solve (à 1 sec du first blood 0_0).
-Review du Code Nous avions simplement le code source en C suivant :
-#include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; int main() { char term[64]; char quote[32]; setbuf(stdout, NULL); setbuf(stdin, NULL); setbuf(stderr, NULL); memset(term, 0, 64); memset(quote, 0, 32); printf(&amp;#34;\nI CaN HaS BaDaSs QuOtE?</description>
-    </item>
-    
+    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.milfctf.com/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[ESAIP CTF] - Baby Pwn (450)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/babypwn/</guid>
       <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le premier challenge d&amp;rsquo;exploitation de binaire de l&amp;rsquo;ESAIP CTF. Il s&amp;rsquo;agissait d&amp;rsquo;un challenge d&amp;rsquo;introduction. Pourtant il avait moins de 10 solves. Nous n&amp;rsquo;avions simplement le binaire ainsi qu&amp;rsquo;un accès remote.
@@ -32,12 +21,23 @@ Introduction Pour commencer nous allons analyser le binaire de manière assez si
     <item>
       <title>[ESAIP CTF] - Terminal Weather (479)</title>
       <link>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.milfctf.com/writeups/esaip-ctf-2022/terminal-weather/</guid>
       <description>Author : Rxphgui Nous allons aujourd&amp;rsquo;hui voir le dernier challenge en pwn de l&amp;rsquo;ESAIP CTF. Nous n&amp;rsquo;avions pas de binaire simplement un remote.
 Lorsque nous nous connections nous avions cela :
 [raphgui@ret2arch:Téléchargements/pwn][1]$ nc terminal-weather.esaip-cyber.com 55555 (06-05 17:00) Welcome to the Terminal Weather Service ----- MENU ----- 1. Change city 2. Get weather 3. Exit Choice: Introduction Ce challenge est celui qui m&amp;rsquo;a prit le plus de temps (2 heures). Pourtant le principe est simple, on va y venir.</description>
+    </item>
+    
+    <item>
+      <title>[CSW CTF] - Badass Quotes (500)</title>
+      <link>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.milfctf.com/writeups/csw-ctf-2022/badass-quotes/</guid>
+      <description>Author : Rxphgui Aujourd&amp;rsquo;hui on va voir un challenge du CSW CTF. Un challenge de pwn dont j&amp;rsquo;ai eu le second solve (à 1 sec du first blood 0_0).
+Review du Code Nous avions simplement le code source en C suivant :
+#include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; int main() { char term[64]; char quote[32]; setbuf(stdout, NULL); setbuf(stdin, NULL); setbuf(stderr, NULL); memset(term, 0, 64); memset(quote, 0, 32); printf(&amp;#34;\nI CaN HaS BaDaSs QuOtE?</description>
     </item>
     
   </channel>
