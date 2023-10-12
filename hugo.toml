@@ -22,7 +22,7 @@ DefaultContentLanguage = "en"
 mainSections = ["writeups"]
 headTitle = "Mother I'd Like to Flag"
 description = "📝 All of our writeups & articles"
-favicon = "/logo.png"
+favicon = "favicon.png"
 [[params.socials]]
 name = "✏️ CTF Writeups"
 link = "/writeups"
